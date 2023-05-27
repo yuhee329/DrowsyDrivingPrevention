@@ -1,0 +1,179 @@
+# ninja log v5
+1003	1163	7022078543308805	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	f09d8f58a37116d1
+597	737	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	74a2d0409a1b3248
+616	748	7024598639401622	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/lcd.pbi	8fdcf467af4e1f34
+1182	1332	7022078545027149	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	20f7ce57c2203db8
+93	453	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/misc.xcl	ef3acc38df823a92
+1191	1331	7000244571026440	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/adc1.pbi	b0dbd1957c230c6c
+1066	1216	7000244569776719	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_adc.pbi	3e0e5192b8e22ed1
+482	607	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.xcl	61619307a7f28d0f
+834	888	7022078540653189	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	225ea6d502ae4148
+498	624	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/adc1.xcl	9eb45616df1e1236
+907	1066	7000244568370799	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	be1630b6eda2952c
+2027	2794	7022078559398776	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbw	bbe1d4e688f3b930
+347	473	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	2b6744a0f604f41f
+959	1111	7000244568683225	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	228b365c2377202e
+1471	1611	7000244573682069	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart2.pbi	bd0e3711b1338254
+810	932	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart2.xcl	fc1c8671ee918f8d
+1345	1491	7022078546589283	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.pbi	be5e836df0f5e787
+2	142	7026406882991305	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.pbi	b10067e4401299b9
+5	122	7000250410000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim7_fnd.xcl	c4e46367e018940b
+578	719	7024598639108824	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/tim10_motor.pbi	ec2aac1d45c3d2e3
+2	154	7000390440588202	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/main.pbi	3bf98c41530d5c5f
+46	346	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	d6b6069060de7ff1
+532	560	7024598637517950	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	cdb58e6482cc0d
+598	742	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	16100f3e191935f6
+96	461	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	bc791381716b1848
+277	406	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/lcd.xcl	fad5736998cf0f6c
+1419	1566	7022078547370348	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.pbi	f015b77e9737133
+15	164	7000250412308265	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part2.pbi	a7b4486a880e2441
+1386	1525	7000244572900980	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim10_motor.pbi	7eb6c65f1f439685
+574	715	7024598639079544	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/uart4.pbi	8da2955b3f42b28f
+1761	1865	7022078550338401	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part4.pbi	c5e3282f75b14102
+896	1045	7000244568058375	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/misc.pbi	1c77e8340fbbaf71
+2	109	7000267369486949	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part4.pbi	f7853570c129fcc8
+37	370	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/misc.xcl	975091e581ce8a8d
+100	473	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	edbaf4b21cd8e57e
+1753	1888	7022078550650827	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part2.pbi	f102928c398ea134
+1034	1185	7022078543621233	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	165ac174c300f3ee
+738	870	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.xcl	76e3fc861b18fa67
+124	268	7000250413401751	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim7_fnd.pbi	e3626d8088047f2d
+1526	1649	7000244574150686	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part0.pbi	c12dd54f94d3eaca
+759	895	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.xcl	fff1cfc9a496435c
+305	471	7024598636629793	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	e97f3c1473c1bdc3
+1460	1614	7022078547838987	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	2ed0115544226cf4
+433	577	7024598637683866	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	60571b811f05a733
+733	864	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.xcl	a4e4407888895a98
+716	850	7024598640426424	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	b6b1a556a10a2cc7
+158	294	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/stm32f4xx_usart.xcl	960d26b168fdaf20
+889	1026	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.xcl	26645375a9fabbd2
+932	1082	7000244568527011	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	ffc97efa4090e824
+1	146	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	2e63c44495837fde
+1083	1243	7000244570089143	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	52f3f367d9c8879d
+1332	1610	7022078547838987	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_tim.pbi	e76af03d594343e8
+1046	1191	7000244569620965	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.pbi	888ad2fd044433a6
+1314	1459	7022078546276861	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.pbi	89da3bedcab2a407
+371	497	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	2536ae1b3f98dd37
+1611	1753	7022078549244908	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.pbi	af26de4821d35485
+17	353	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	ee7052f0f6d7a92e
+41	350	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	eb1bdc104adb7530
+353	482	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	8724b4e5b4b71def
+350	511	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	a71a42059a26be6
+473	598	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	49e111d0a19b671b
+512	640	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/lcd.xcl	325ec9118263b21
+1649	1779	7000244575400407	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part1.pbi	ef84d884ffb13614
+608	758	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/tim7_fnd.xcl	bd2d6d628de59a84
+624	777	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/key.xcl	bc3efd7f380a2720
+640	793	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart4.xcl	b94660fc34c2bc2a
+743	810	7000244565715178	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/stm32f4xx_it.pbi	b6948afe7fe34a17
+778	907	7000244560000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim10_motor.xcl	8087c5f89fe45730
+794	958	7000244567277307	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	456af6b50408dafa
+1112	1255	7000244570245356	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/tim7_fnd.pbi	5371479c2924609e
+1216	1362	7000244571182641	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/STM32/stm32f4xx_usart.pbi	ce7c2bde6928a69e
+1244	1385	7000244571495062	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/key.pbi	7fba56a595037ff5
+1332	1470	7000244572276128	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/uart4.pbi	5758d40fdb546db9
+1255	1395	7000244571651279	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/lcd.pbi	6ef37dcc1bfe129b
+6	145	7000250777056855	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/tim4_counter.pbi	30859034b20f8361
+1615	1761	7022078549244908	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim7_fnd.pbi	27efd9609c3292fc
+156	281	7000390441838696	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2_part3.pbi	469ec154060a5443
+283	411	7000390443244338	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbd	8fd3730029e16630
+593	728	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.xcl	46664400f31fd21
+3	113	7000253110000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/led.xcl	220e9afa8b6e26de
+413	1055	7000390449492359	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/sampleUart2.pbw	2f80d11feabd1a6b
+114	249	7000253115207104	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v3_pb7_counter/Debug/BrowseInfo/led.pbi	371d80ba69ba6fa9
+72	456	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/stm32f4xx_it.xcl	4457139125db4f80
+453	580	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_exti.xcl	6eeb6d67bbc8948e
+601	733	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/adc1.xcl	c7a23f548a157197
+458	593	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	5bfbb19b065a73a9
+462	597	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	897e985ef089ee92
+1492	1634	7022078547995202	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim4_counter.pbi	b5e8fe665d003ca5
+475	601	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_syscfg.xcl	1d257f27bff9b65
+581	707	7022078530000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_adc.xcl	af6b89f5ef0b71ff
+728	860	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/lcd.xcl	c968092968b79b53
+707	834	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/key.xcl	82cfa19b199cf324
+865	1002	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart4.xcl	e5f6bfd544662b18
+2	133	7026402190795762	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/led.pbi	5197e1112f7ca6ec
+870	1014	7022078540000000	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.xcl	a7697f83e8e1672d
+861	1034	7022078542059099	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/COMM/system_stm32f4xx.pbi	bf65dae5481e9c2f
+1015	1167	7022078543308805	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/tim10_motor.pbi	10ee8ab50ec256f2
+1026	1182	7022078543465018	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_exti.pbi	3ec9099c28092b66
+1168	1312	7022078544870936	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/misc.pbi	20f1b3239f2a7a74
+1186	1343	7022078545183372	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/main.pbi	1464596e073949aa
+1164	1418	7022078545964436	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	5fa1573480881608
+1567	1716	7022078548932498	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/uart2.pbi	6b6e3ab884315ef3
+1635	1757	7022078549244908	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part0.pbi	9d763c7cd7bc9a67
+1716	1850	7022078550182187	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part1.pbi	1915fdf5ef73055d
+1758	1894	7022078550650827	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2_part3.pbi	9e9f982407c7e083
+1894	2026	7022078551900539	C:/Users/IoT06/Documents/iar/sampleUart2_project_split_ksh_v4_bluetooth/Debug/BrowseInfo/sampleUart2.pbd	a24b73bd5dae79bc
+9	152	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/uart4.xcl	ea941333a4f27ac7
+144	270	7026406884278768	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+21	158	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/misc.xcl	84c578ceaeea4440
+5	174	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/COMM/system_stm32f4xx.xcl	a55e2bd3073569c1
+148	276	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/stm32f4xx_gpio.xcl	9a866ae545ac6165
+152	286	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/stm32f4xx_rcc.xcl	edebc90f337fcd41
+174	304	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/stm32f4xx_tim.xcl	ee6f944def937e12
+287	421	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.xcl	96d83211202c20e9
+295	433	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/uart2.xcl	836fbcc84e2668c
+407	532	7024598630000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/tim10_motor.xcl	f38c2e57c4cbb324
+422	574	7024598637654587	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/stm32f4xx_rcc.pbi	13f8beac5c1da8c9
+472	616	7024598638084028	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/stm32f4xx_gpio.pbi	e7584fa63e6a1c36
+560	698	7024598638903864	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/STM32/misc.pbi	2cacfb03cb0359b7
+32	181	7025491148612156	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part0.pbi	6fba2d685dd0e514
+699	830	7024598640221563	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/uart2.pbi	e826daabcb691b30
+34	214	7025491148943995	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part1.pbi	3a33a791649bc6b2
+181	239	7025491149197749	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part3.pbi	93974d37e2b61972
+271	384	7026406885401179	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+385	1004	7026406891394397	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+6	147	7025491140000000	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/led.xcl	96bf850abae937df
+2	133	7026408452904533	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/led.pbi	5197e1112f7ca6ec
+135	262	7026408454202612	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+263	375	7026408455334774	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+378	1011	7026408461464192	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+1	132	7026408563828284	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/led.pbi	5197e1112f7ca6ec
+134	259	7026408565097061	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+261	372	7026408566238985	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+374	1008	7026408572348734	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+2	131	7026408876060083	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/led.pbi	5197e1112f7ca6ec
+132	258	7026408877328876	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+259	366	7026408878402476	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+368	983	7026408884346318	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+2	134	7026409087458750	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/led.pbi	5197e1112f7ca6ec
+135	260	7026409088717263	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+262	370	7026409089820140	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+371	995	7026409095851815	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+2	135	7026420320829041	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/tim10_motor.pbi	ec2aac1d45c3d2e3
+136	263	7026420322108181	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+265	373	7026420323210464	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+376	1024	7026420329476623	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+1	142	7026420935386719	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.pbi	b10067e4401299b9
+144	271	7026420936665860	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+272	383	7026420937797449	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+384	1029	7026420944014561	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+2	149	7026421046565363	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.pbi	b10067e4401299b9
+151	278	7026421047853683	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+280	387	7026421048937046	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+389	1039	7026421055232244	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+1	138	7026423321247208	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/tim10_motor.pbi	ec2aac1d45c3d2e3
+139	265	7026423322515356	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+267	376	7026423323628594	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+377	1011	7026423329747519	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+1	145	7026423835043390	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.pbi	b10067e4401299b9
+148	274	7026423836341472	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+277	387	7026423837463910	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+389	1020	7026423843574069	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+2	147	7026426563541468	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.pbi	b10067e4401299b9
+149	276	7026426564838892	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+278	385	7026426565932799	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+387	1019	7026426572042425	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+2	147	7026427227978871	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.pbi	b10067e4401299b9
+148	272	7026427229237840	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+274	385	7026427230359307	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+388	1027	7026427236547150	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+51	341	7028042237730221	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.pbi	b10067e4401299b9
+344	538	7028042239691990	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+539	681	7028042241116094	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+682	1430	7028042248387951	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
+2	144	7028042350965359	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/main.pbi	b10067e4401299b9
+146	270	7028042352234157	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2_part2.pbi	23926f4eb4b6c6e8
+273	379	7028042353317519	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbd	7c21155729595a9d
+2	618	7028042955941012	C:/Users/IoT06/Documents/iar/IoTproject_m4 befortimer/Debug/BrowseInfo/sampleUart2.pbw	4688be251c3806cd
